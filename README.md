@@ -43,32 +43,10 @@ ___
     </a>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me 
-  ![x97QegXymC](https://github.com/thedeveloper03/thedeveloper03/assets/123274423/988ca430-c243-459c-ba07-6b899eb52a2d)
-
- <p align="left"> 
-  
-  <a href="https://www.instagram.com/the_developer03" alt="Linkedin"> 
-   <img width="140px" src="https://img.shields.io/badge/-Instagram-rgb(25, 27, 30)?style=for-the-badge&logo=Instagram&logoColor=rgb(150, 118, 228)&link=https://instagram.com/The_developer03"/>  
-  </a> 
-  
-  <a href="mailto: smtechmods " alt="Gmail"> 
-   <img width="113px" src="https://img.shields.io/badge/-Gmail-rgb(25, 27, 30)?style=for-the-badge&logo=Gmail&logoColor=rgb(150, 118, 228)&link=mailto: smtechofcmods@gmail.com"/>  
-  </a> 
-  
-  <a href="https://smdeveloper vercel.app/" alt="Portfolio"> 
-   <img width="192px" src="https://img.shields.io/badge/my_portfolio-rgb(25, 27, 30)?style=for-the-badge&logo=ko-fi&logoColor=rgb(150, 118, 228)&link=https://www.evander.com.br/"/> 
-  </a> 
-  
-  </p>
-   <br/> 
-     <div>
-   <p align="center"> 
- <a href="#"><img title="Author" src="https://img.shields.io/badge/Author-ᴘɪxᴇʟPᴜsʜᴇʀ03-red.svg?style=for-the-badge&logo=github"></a> 
- </p> 
- 
- </div>
+  <p>
+<a href="https://t.me/sacaofficialbot"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://instagram.com/the_developer03"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/thedeveloper03"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/the_developer03"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
+</p>
  <br/>  
-  <div style="text-align:center">  
-  <a href="#">  
-    <img src="./Bottom.svg"></a>  
+  <p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="" />
   </div>  
