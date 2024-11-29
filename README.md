@@ -1,6 +1,6 @@
 <div style="text-align:center">  
   <a href="#">  
-    <img src="./config.mp4"></a>  
+    <video src="./config.mp4"></a>  
   </div>  
 
    ### I'm a full-time full-stack developer 👨‍💻 
