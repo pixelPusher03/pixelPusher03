@@ -1,12 +1,4 @@
 
-
-<div style="text-align:center">  
-  <a href="#">  
-    <img src="https://github.com/user-attachments/assets/7b4eb435-a263-4ade-a070-36998339250f
-"></a>  
-  </div>  
-
-
    ### I'm full-stack developer 👨‍💻 
 
 <p align="center"> 
