@@ -2,10 +2,11 @@
   <a href="#">  
     <video src="./config.mp4"></a>  
 
+  </div>  
+
 https://github.com/user-attachments/assets/7b4eb435-a263-4ade-a070-36998339250f
 
 
-  </div>  
 
    ### I'm full-stack developer 👨‍💻 
 
