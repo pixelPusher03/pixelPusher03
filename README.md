@@ -9,8 +9,70 @@
  <img align="center" alt="count" src="https://count.getloli.com/get/@: pixelPusher03?theme=rule34"> 
  </p>
 
-   ### <div align="center">I'm a full-time full-stack developer 👨‍💻</div> 
-   
+      ### <div align="center">I'm a full-time full-stack developer 👨‍💻</div>  
+  
+![206916906-9bfb66d9-c419-44c2-908a-4885e610425f(0)](https://github.com/thedeveloper03/thedeveloper03/assets/123274423/9d2786b0-eb48-4e42-b83c-8bae4d831cbc)
+
+
+- 🔭 I’m currently working on [SM Mega Project](https://github.com/thedeveloper03?tab=repositories)  
+  
+
+- 🌱 I’m currently learning JavaScript,python and other coding languages 
+
+
+  
+- ❓ Ask me about anything related to SM mega stack and related technologies  
+  
+- ⚡ Fun fact: I use tabs over spaces 
+<br> 
+  
+ ## 👩‍💻Tech Stack 
+  
+ <div align="left"> 
+  <p> 
+     <a href='https://html.com/'> 
+       <img src="https://skillicons.dev/icons?i=html"/> 
+     </a> 
+     <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'> 
+       <img src="https://skillicons.dev/icons?i=css"/> 
+     </a> 
+     <a href='https://www.javascript.com/'> 
+       <img src="https://skillicons.dev/icons?i=js"/> 
+     </a> 
+     <a href='https://www.typescriptlang.org/'> 
+       <img src="https://skillicons.dev/icons?i=ts"/> 
+     </a> 
+     <a href='https://reactjs.org/'> 
+       <img src="https://skillicons.dev/icons?i=react"/> 
+     </a> 
+     <a href='https://nextjs.org/'> 
+       <img src="https://skillicons.dev/icons?i=nextjs"/> 
+     </a> 
+     <a href='https://nodejs.org/en/'> 
+       <img src="https://skillicons.dev/icons?i=nodejs"/> 
+     </a> 
+     <a href='https://git-scm.com/'> 
+      <img src="https://skillicons.dev/icons?i=git"/> 
+     </a> 
+     <a href='https://styled-components.com/'> 
+       <img src="https://skillicons.dev/icons?i=styledcomponents"/> 
+     </a> 
+     <a href='https://tailwindui.com/'> 
+      <img src="https://skillicons.dev/icons?i=tailwind"/> 
+     </a> 
+     <a href='https://sass-lang.com/'> 
+      <img src="https://skillicons.dev/icons?i=sass"/> 
+     </a> 
+      <a href='https://mui.com/'> 
+      <img src="https://skillicons.dev/icons?i=materialui"/> 
+     </a> 
+     <a href='https://www.figma.com/'> 
+      <img src="https://skillicons.dev/icons?i=figma"/> 
+     </a> 
+  </p> 
+ 
+
+ ___
 
 # My GitHub status
 ![trophy](https://github-profile-trophy.vercel.app/?username=pixelPusher03&theme=radical)
