@@ -9,7 +9,7 @@
  <img align="center" alt="count" src="https://count.getloli.com/get/@: pixelPusher03?theme=rule34"> 
  </p>
 
-      ### <div align="center">I'm a full-time full-stack developer 👨‍💻</div>  
+      ### I'm a full-time full-stack developer 👨‍💻 
 
 - 🔭 I’m currently working on [SM Mega Project](https://github.com/pixelPusher03?tab=repositories)  
   
