@@ -1,3 +1,5 @@
+   ### I'm a full-time full-stack developer 👨‍💻 
+
 <p align="center"> 
  <div align="center">  
    <a href="https://git.io/typing-svg"><img 
@@ -10,8 +12,7 @@
  </p>
 <br>
 
-      ### I'm a full-time full-stack developer 👨‍💻 
-
+   
 - 🔭 I’m currently working on [SM Mega Project](https://github.com/pixelPusher03?tab=repositories)  
   
 
