@@ -85,7 +85,7 @@
 ___ 
   
  <p align="center">
-<a href="https://github.com/pixelPusher03"><img title="pixelPusher03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelPusher03&layout=compact"></a>
+<a href="https://github.com/pixelPusher03"><img title="pixelPusher03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelPusher03&layout=compact&theme=radical"></a>
 </p>
  ___
 
