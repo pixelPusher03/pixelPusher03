@@ -84,7 +84,9 @@
 <br>
 ___ 
   
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelPusher03&count_private=true&show_icons=true&theme=highcontrast) 
+ <p align="center">
+<a href="https://github.com/pixelPusher03"><img title="pixelPusher03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelPusher03&layout=compact"></a>
+</p>
  ___
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pixelPusher03&theme=highcontrast&hide_border=true)
