@@ -10,11 +10,8 @@
  </p>
 
       ### <div align="center">I'm a full-time full-stack developer 👨‍💻</div>  
-  
-![206916906-9bfb66d9-c419-44c2-908a-4885e610425f(0)](https://github.com/thedeveloper03/thedeveloper03/assets/123274423/9d2786b0-eb48-4e42-b83c-8bae4d831cbc)
 
-
-- 🔭 I’m currently working on [SM Mega Project](https://github.com/thedeveloper03?tab=repositories)  
+- 🔭 I’m currently working on [SM Mega Project](https://github.com/pixelPusher03?tab=repositories)  
   
 
 - 🌱 I’m currently learning JavaScript,python and other coding languages 
