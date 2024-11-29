@@ -1,11 +1,10 @@
+
+
 <div style="text-align:center">  
   <a href="#">  
-    <video src="./config.mp4"></a>  
-
+    <img src="https://github.com/user-attachments/assets/7b4eb435-a263-4ade-a070-36998339250f
+"></a>  
   </div>  
-
-https://github.com/user-attachments/assets/7b4eb435-a263-4ade-a070-36998339250f
-
 
 
    ### I'm full-stack developer 👨‍💻 
