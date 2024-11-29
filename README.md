@@ -1,9 +1,13 @@
 <div style="text-align:center">  
   <a href="#">  
     <video src="./config.mp4"></a>  
+
+https://github.com/user-attachments/assets/7b4eb435-a263-4ade-a070-36998339250f
+
+
   </div>  
 
-   ### I'm a full-time full-stack developer 👨‍💻 
+   ### I'm full-stack developer 👨‍💻 
 
 <p align="center"> 
  <div align="center">  
