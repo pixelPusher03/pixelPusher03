@@ -1,6 +1,6 @@
 const Telegraf = require('telegraf')
 
-const bot = new Telegraf('Your_Token')
+const bot = new Telegraf7683704411:AAFwF89eqSa1xQkXdNVjirI6yr9ABa_6EwI')
 const axios = require('axios')
 const helpMessage = `Tell me something\n/start - to start the bot\n/menu - to display the menu list`;
 bot.use((ctx, next) => {
