@@ -96,11 +96,11 @@ ___
 ![](https://github-contributor-stats.vercel.app/api?username=pixelPusher03&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/achievements.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/pixelPusher03/da830a12192544969ed71c5ce133f00a/raw/achievements.svg">](#)
 
 ___
 
-[<img align="center" width="100%" alt="🦑" src="https://github-readme-activity-graph.vercel.app/graph/?username=FuadXyro&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">](#)
+[<img align="center" width="100%" alt="🦑" src="https://github-readme-activity-graph.vercel.app/graph/?username=pixelPusher03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">](#)
 
 ___
 ### Spotify Playing 🎧
