@@ -92,6 +92,10 @@ ___
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pixelPusher03&theme=highcontrast&hide_border=true)
 ___
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pixelPusher03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 ### Spotify Playing 🎧
 
 <p align="center">
