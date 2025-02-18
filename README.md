@@ -28,50 +28,48 @@
 - ⚡ Fun fact: I use tabs over spaces 
 <br> 
   
- ## 👩‍💻Tech Stack 
-  
- <div align="left"> 
-  <p> 
-     <a href='https://html.com/'> 
-       <img src="https://skillicons.dev/icons?i=html"/> 
-     </a> 
-     <a href='https://developer.mozilla.org/en-US/docs/Web/CSS'> 
-       <img src="https://skillicons.dev/icons?i=css"/> 
-     </a> 
-     <a href='https://www.javascript.com/'> 
-       <img src="https://skillicons.dev/icons?i=js"/> 
-     </a> 
-     <a href='https://www.typescriptlang.org/'> 
-       <img src="https://skillicons.dev/icons?i=ts"/> 
-     </a> 
-     <a href='https://reactjs.org/'> 
-       <img src="https://skillicons.dev/icons?i=react"/> 
-     </a> 
-     <a href='https://nextjs.org/'> 
-       <img src="https://skillicons.dev/icons?i=nextjs"/> 
-     </a> 
-     <a href='https://nodejs.org/en/'> 
-       <img src="https://skillicons.dev/icons?i=nodejs"/> 
-     </a> 
-     <a href='https://git-scm.com/'> 
-      <img src="https://skillicons.dev/icons?i=git"/> 
-     </a> 
-     <a href='https://styled-components.com/'> 
-       <img src="https://skillicons.dev/icons?i=styledcomponents"/> 
-     </a> 
-     <a href='https://tailwindui.com/'> 
-      <img src="https://skillicons.dev/icons?i=tailwind"/> 
-     </a> 
-     <a href='https://sass-lang.com/'> 
-      <img src="https://skillicons.dev/icons?i=sass"/> 
-     </a> 
-      <a href='https://mui.com/'> 
-      <img src="https://skillicons.dev/icons?i=materialui"/> 
-     </a> 
-     <a href='https://www.figma.com/'> 
-      <img src="https://skillicons.dev/icons?i=figma"/> 
-     </a> 
-  </p> 
+ - ⚡ Fun fact **Developer runs on Chai (Tea) ❤**
+
+### Tech Stack and Tools:
+
+<div class="row">
+<!-- <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Angular" src="https://img.shields.io/badge/angular%20-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=%2361DAFB"/>
+<img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/java%20-%2314354C.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="Spring" src="https://img.shields.io/badge/Spring%20-%23F05033.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL%20-%23117AC9.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
+<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Flutter" src ="https://img.shields.io/badge/Flutter-%234ea94b.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/Docker%20-%2320232a.svg?&style=for-the-badge&logo=Docker&logoColor=%2361DAFB"/>
+<img alt="Openshift" src="https://img.shields.io/badge/Openshift%20-%231572B6.svg?&style=for-the-badge&logo=Openshift&logoColor=white"/>
+<img alt="Kibana" src="https://img.shields.io/badge/Kibana%20-%23563D7C.svg?&style=for-the-badge&logo=Kibana&logoColor=white"/> -->
+
+#### Languages: 
+[![Languages](https://skillicons.dev/icons?i=java,html,css,js,ts,nodejs,py,dart)](https://skillicons.dev)
+
+  #### Frameworks: 
+  [![Frameworks](https://skillicons.dev/icons?i=spring,express,prisma,bootstrap,sass,tailwind,angular,flutter&perline=6)](https://skillicons.dev)
+   #### Database:
+  [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,elasticsearch)](https://skillicons.dev)
+
+#### Queues:
+  [![Database](https://skillicons.dev/icons?i=rabbitmq,kafka,redis)](https://skillicons.dev)
+
+  #### Devops:
+  [![Devops](https://skillicons.dev/icons?i=docker,kubernetes,nginx)](https://skillicons.dev)
+
+  #### Cloud:
+  [![Cloud](https://skillicons.dev/icons?i=azure,heroku,openshift)](https://skillicons.dev)
+
+  #### Tools:
+  [![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,firebase,supabase,stackoverflow,wordpress,linux,bash)](https://skillicons.dev)
  
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
